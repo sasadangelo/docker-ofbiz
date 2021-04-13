@@ -21,10 +21,10 @@ Here the instructions to run the software.
 docker run -d 8443:8443 docker-ofbiz
 ```
 
-**Default dashboard**: https://SERVER_IP:8443/ordermgr/control/main. 
-**e-Commerce**: https://SERVER_IP:8443/ecommerce
-**WebTools**: https://SERVER_IP:8443/webtools
-**Catalog Manager**: https://SERVER_IP:8443/catalog
+* **Default dashboard**: https://SERVER_IP:8443/ordermgr/control/main. 
+* **e-Commerce**: https://SERVER_IP:8443/ecommerce
+* **WebTools**: https://SERVER_IP:8443/webtools
+* **Catalog Manager**: https://SERVER_IP:8443/catalog
 
 Where SERVER_IP is the IP address of your hosting server, by default **localhost**.
 
